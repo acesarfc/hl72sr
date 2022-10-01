@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="mirth_bin/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-compress-1.17.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-configuration2-2.7.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-text-1.8.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/commons-vfs2-2.1.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/dcm4che-core-2.0.29.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/dcm4che-filecache-2.0.29.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/dcm4che-net-2.0.29.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="mirth_bin/slf4j-log4j12-1.7.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
